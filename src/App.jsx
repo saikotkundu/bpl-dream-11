@@ -1,29 +1,18 @@
 import './App.css'
-import navLogo from './assets/logo.png'
-import coinImg from './assets/coin.png'
+import AvailablePlayers from './components/AvailablePlayers/AvailablePlayers'
+import Navbar from './components/Navbar/Navbar'
+import SelectedPlayers from './components/SelectedPlayers/SelectedPlayers'
 
 function App() {
 
   return (
     <>
-      {/* navbar */}
-      <div className="navbar max-w-7xl mx-auto mt-12.5 mb-6">
+      <Navbar></Navbar>
 
-        {/* navbar left logo */}
-        <div className="flex-1">
-          <a className="text-xl">
-            <img className="w-17.5 h-17.5" src={navLogo} alt="" />
-          </a>
-        </div>
+      <AvailablePlayers></AvailablePlayers>
 
-        {/* navbar right coin */}
-        <div className="flex items-center ">
-          <span className='font-bold text-xl mr-1'>60000000000</span>
-          <span className='font-bold text-xl mr-1'>Coin</span>
-          <img src={coinImg} alt="" />
-        </div>
+      <SelectedPlayers></SelectedPlayers>
 
-      </div>
     </>
   )
 }
