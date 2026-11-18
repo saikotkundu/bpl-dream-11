@@ -1,0 +1,122 @@
+[
+  {
+    "player-image": "https://i.ibb.co.com/MDzYM3pp/Rohit-Sharma.png",
+    "player-name": "Rohit Sharma",
+    "player-country": "India",
+    "player-role": "Batting All-rounder",
+    "rating": 8.7,
+    "batting-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": 125000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/fYGHB4jr/James-Anderson.png",
+    "player-name": "James Anderson",
+    "player-country": "England",
+    "player-role": "Bowling All-rounder",
+    "rating": 9.1,
+    "batting-style": "Left-hand bat",
+    "bowling-style": "Right-arm fast-medium",
+    "price": 148000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/prvg9ysB/Kane-Williamson.jpg",
+    "player-name": "Kane Williamson",
+    "player-country": "New Zealand",
+    "player-role": "Top order Batter",
+    "rating": 8.3,
+    "batting-style": "Right-hand bat",
+    "bowling-style": "Legbreak googly",
+    "price": 98000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/QFc8X4kZ/Babar-Azam.jpg",
+    "player-name": "Babar Azam",
+    "player-country": "Pakistan",
+    "player-role": "Top order Batter",
+    "rating": 7.9,
+    "batting-style": "Left-hand bat",
+    "bowling-style": "Right-arm medium",
+    "price": 86000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/Qj8QLdh0/Pat-Cummins.png",
+    "player-name": "Pat Cummins",
+    "player-country": "Australia",
+    "player-role": "Bowling All-rounder",
+    "rating": 8.9,
+    "batting-style": "Right-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": 132000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/n5JVdC1/Shakib-Al-Hasan.png",
+    "player-name": "Shakib Al Hasan",
+    "player-country": "Bangladesh",
+    "player-role": "All-rounder",
+    "rating": 8.5,
+    "batting-style": "Left-hand bat",
+    "bowling-style": "Slow left-arm orthodox",
+    "price": 110000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/k2bhv60Q/Quinton-de-Kock.png",
+    "player-name": "Quinton de Kock",
+    "player-country": "South Africa",
+    "player-role": "Wicketkeeper Batter",
+    "rating": 7.6,
+    "batting-style": "Left-hand bat",
+    "bowling-style": "None",
+    "price": 74000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/yFLTWsc2/Rashid-Khan.png",
+    "player-name": "Rashid Khan",
+    "player-country": "Afghanistan",
+    "player-role": "Bowling All-rounder",
+    "rating": 9.4,
+    "batting-style": "Right-hand bat",
+    "bowling-style": "Legbreak googly",
+    "price": 165000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/MxRQsHcH/Virat-Kohli.png",
+    "player-name": "Virat Kohli",
+    "player-country": "India",
+    "player-role": "Top order Batter",
+    "rating": 9.0,
+    "batting-style": "Right-hand bat",
+    "bowling-style": "Right-arm medium",
+    "price": 155000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/RpLQMb5N/Kyle-Jamieson.webp",
+    "player-name": "Kyle Jamieson",
+    "player-country": "New Zealand",
+    "player-role": "Bowling All-rounder",
+    "rating": 7.2,
+    "batting-style": "Right-hand bat",
+    "bowling-style": "Right-arm fast-medium",
+    "price": 62000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/TxHxdqSR/Glenn-Maxwell.png",
+    "player-name": "Glenn Maxwell",
+    "player-country": "Australia",
+    "player-role": "Batting All-rounder",
+    "rating": 8.1,
+    "batting-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": 118000
+  },
+  {
+    "player-image": "https://i.ibb.co.com/VY920tDd/Jasprit-Bumrah.png",
+    "player-name": "Jasprit Bumrah",
+    "player-country": "India",
+    "player-role": "Bowled by Right-arm fast",
+    "rating": 9.6,
+    "batting-style": "Right-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": 172000
+  }
+]
