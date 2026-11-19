@@ -16,7 +16,7 @@ const Navbar = () => {
         </div>
 
         {/* navbar right coin */}
-        <div className="flex items-center ">
+        <div className="flex items-center">
           <span className='font-bold text-xl mr-1'>60000000000</span>
           <span className='font-bold text-xl mr-1'>Coin</span>
           <img src={coinImg} alt="" />
